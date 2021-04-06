@@ -1,4 +1,6 @@
-Buenas días a todos, mi nombre es Alejo Dilluvio. Legajo 160.279-2.
+## Alejo Dilluvio
+
+Buenas días a todos, mi nombre es Alejo, tengo 23 años y mi legajo es 160.279-2.
 
 Vivo en capital pero, por la pandemia, me volví a mi pueblo natal (Junín).
 
